@@ -1,8 +1,8 @@
 #frequencies in kHz
-
-8992.0     USB  US HF-GCS Network
-11175.0    USB  US HF-GCS Network
-28250.70   CW   
-28250.90   CW   KC5SQD/B beacon
-28209.00   CW   K5TIT/B beacon
-28280.00   CW   K5AB Beacon
+8846.0     USB  Aviation  Atlantic Crossing Northeast USA
+8992.0     USB  Military  US HF-GCS Network
+9108.1     USB  USCG      Wefax out of Boston (ref. freq 9110)
+11175.0    USB  Military  US HF-GCS Network
+28250.90   CW   Amateur   KC5SQD/B beacon
+28209.00   CW   Amateur   K5TIT/B beacon
+28280.00   CW   Amateur   K5AB Beacon
