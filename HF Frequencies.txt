@@ -1,0 +1,8 @@
+#frequencies in kHz
+
+8992.0     USB  US HF-GCS Network
+11175.0    USB  US HF-GCS Network
+28250.70   CW   
+28250.90   CW   KC5SQD/B beacon
+28209.00   CW   K5TIT/B beacon
+28280.00   CW   K5AB Beacon
