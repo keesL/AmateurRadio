@@ -1,4 +1,5 @@
 #frequencies in kHz
+5550.0     USB  Aviation  Atlantic Crossing Northeast USA
 8846.0     USB  Aviation  Atlantic Crossing Northeast USA
 8992.0     USB  Military  US HF-GCS Network
 9108.1     USB  USCG      Wefax out of Boston (ref. freq 9110)
